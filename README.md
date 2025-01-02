@@ -44,7 +44,7 @@ These projects leverage the following tools and frameworks:
 
 ## Projects
 
-### 1. [E-Commerce]
+### 1. E-Commerce
 
 **Description:**
 This project is a scalable and modular e-commerce platform designed using a microservices architecture. It enables users to browse products, manage orders, make payments, and receive notifications.
@@ -67,7 +67,7 @@ This project is a scalable and modular e-commerce platform designed using a micr
   - Docker and Docker Compose (Containerization)
   - MySQL (Database)
 
-### 2. [Shopping cart]
+### 2. Shopping cart
 
 ### Description
 
