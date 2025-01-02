@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: payment-service
+  config:
+    import: optional:configserver:http://localhost:8087
+  profiles:
+    active: payment
+server:
+  port: 8084
