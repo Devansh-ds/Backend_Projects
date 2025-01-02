@@ -118,7 +118,7 @@ The project is designed using a microservices architecture, enabling scalability
 
 - Implement actual payment processing logic in Payment Service.
 - Enhance security with Spring Security and OAuth2.
-- Add monitoring and logging with tools like Prometheus and Grafana.
+- Add monitoring and logging
 - Implement circuit breakers for better fault tolerance.
 
 ---
